@@ -7,6 +7,8 @@ site_url: 'http://pdvinfo.com.br'
 nav:
   - Apresentação: index.md
   - Tempo Real: temporeal.md
+  - Roteiro: roteiro.md
+  
 
 theme:
   name: 'material'
