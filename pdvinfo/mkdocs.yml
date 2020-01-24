@@ -1,0 +1,16 @@
+# Project information
+site_name: 'Manual PDV Info'
+site_description: 'Tudo sob Controle'
+site_author: 'Movin`'
+site_url: 'http://pdvinfo.com.br'
+
+nav:
+  - Apresentação: index.md
+  - Tempo Real: temporeal.md
+
+theme:
+  name: 'material'
+  logo: 'assets/images/logo-pdvinfo-128.png'
+  palette:
+    primary: 'orange'
+    accent: 'yellow'
