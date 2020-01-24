@@ -6,8 +6,10 @@ site_url: 'http://pdvinfo.com.br'
 
 nav:
   - Apresentação: index.md
+  - Primeiros Passos: primeiros-passos.md
   - Tempo Real: temporeal.md
   - Roteiro: roteiro.md
+
   
 
 theme:
