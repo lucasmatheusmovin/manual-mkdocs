@@ -15,7 +15,7 @@ nav:
 theme:
   
   name: null
-  custom_dir: mkdocs-material/material
+  custom_dir: material-custom/material
   language: pt
   font:
     text: Roboto
