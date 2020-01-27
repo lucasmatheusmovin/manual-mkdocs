@@ -13,7 +13,15 @@ nav:
   
 
 theme:
-  name: 'material'
+  
+  name: null
+  custom_dir: mkdocs-material/material
+  language: pt
+  font:
+    text: Roboto
+    code: Roboto Mono
+  feature:
+    tabs: true
   logo: 'assets/images/logo-pdvinfo-128.png'
   palette:
     primary: 'orange'
