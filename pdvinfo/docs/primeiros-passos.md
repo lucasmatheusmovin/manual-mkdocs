@@ -19,6 +19,18 @@ e preencha os campos de cadastro.
 * `Username` - Username é o nome de usuário que dá acesso ao App do colaborador. <span style="color:red">*</span>
 * `Password` - É a senha de acesso ao App do colaborador. <span style="color:red">*</span>
 
-## 
-
 ### 
+
+#### 1.1 Controle de Expediente
+O controle de expediente pode ser utilizado para bloquear o aplicativo quando o colaborador estiver fora dos horários estabelecidos.  
+
+#### 1.2 Tipo de Monitoramento do Celular
+Para configurar o tipo de rastreamento do posicionamento por GPS do promotor. 
+    * `Padrão` - Os dados de posicionamento serão gravados apenas no momento do check-in e check-out.
+    * `Fulltime` - O colaborador será rastreado dentro e fora do ponto. A posição é atualizada a cada 5 minutos.
+                   Essa funcionalidade pode ser desligada se o 
+
+
+### 2. Cadastro de PDV
+
+    
