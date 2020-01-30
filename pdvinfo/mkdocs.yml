@@ -5,12 +5,32 @@ site_author: 'Movin`'
 site_url: 'http://pdvinfo.com.br'
 
 nav:
-  - Apresentação: index.md
+  - Início: index.md
   - Primeiros Passos: primeiros-passos.md
   - Tempo Real: temporeal.md
-  - Roteiro: roteiro.md
-
+  - Gerenciamento:  
+    - Roteiro: gerenciamento/roteiro.md
+    - Pesquisa: gerenciamento/pesquisa.md
+    - SKU: gerenciamento/sku.md
+    - Carteira: gerenciamento/carteira.md
+    - Grupos: gerenciamento/grupos.md
+  - Importação em Lotes:
+    - Geral: lotes/geral.md
+    - Roteiro: lotes/roteiro.md
+    - Pesquisa: lotes/pesquisa.md
+    - SKU: lotes/sku.md
+    - Carteira: lotes/carteira.md
+  - Relatórios:
+    - Geral: relatorios/geral.md
+    - Relatório de Colaboradores: relatorios/colaboradores.md
+    - Relatório de PDV/Local: relatorios/pdvlocal.md
+    - Relatório de Pesquisas: relatorios/pesquisas.md
+    - Relatório de Roteiros: relatorios/roteiros
+    - Relatório: relatorios/
+    - Relatório: relatorios/
+    - Relatório: relatorios/ 
   
+
 
 theme:
   
@@ -22,7 +42,7 @@ theme:
     code: Roboto Mono
   feature:
     tabs: true
-  logo: 'assets/images/logo-pdvinfo-128.png'
+  logo: 'assets/images/logo-pdvinfo-300.png'
   palette:
     primary: 'orange'
     accent: 'yellow'
