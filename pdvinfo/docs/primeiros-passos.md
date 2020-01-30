@@ -33,4 +33,10 @@ Para configurar o tipo de rastreamento do posicionamento por GPS do promotor.
 
 ### 2. Cadastro de PDV
 
+![Screenshot](assets/primeiros-passos/cadastro-pdv.gif)
+
+O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV **. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude.
+
+### 3. 
+
     
