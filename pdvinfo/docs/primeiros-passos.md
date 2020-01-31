@@ -19,17 +19,16 @@ e preencha os campos de cadastro.
 * `Username` - Username é o nome de usuário que dá acesso ao App do colaborador. <span style="color:red">*</span>
 * `Password` - É a senha de acesso ao App do colaborador. <span style="color:red">*</span>
 
-### 
+<br>
 
 #### 1.1 Controle de Expediente
 O controle de expediente pode ser utilizado para bloquear o aplicativo quando o colaborador estiver fora dos horários estabelecidos.  
 
 #### 1.2 Tipo de Monitoramento do Celular
 Para configurar o tipo de rastreamento do posicionamento por GPS do promotor. 
-    * `Padrão` - Os dados de posicionamento serão gravados apenas no momento do check-in e check-out.
-    * `Fulltime` - O colaborador será rastreado dentro e fora do ponto. A posição é atualizada a cada 5 minutos.
-                   Essa funcionalidade pode ser desligada se o 
 
+* `Padrão` - Os dados de posicionamento serão gravados apenas no momento do check-in e check-out.
+* `Fulltime` - O colaborador será rastreado dentro e fora do ponto. A posição é atualizada a cada 5 minutos.
 
 ### 2. Cadastro de PDV
 
@@ -37,6 +36,98 @@ Para configurar o tipo de rastreamento do posicionamento por GPS do promotor.
 
 O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV **. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude.
 
-### 3. 
+### 3. Criação de um Roteiro ou Carteira
 
-    
+O roteiro ou carteira é como os PDV's são relacionados ao colaborador. A diferença entre um roteiro e a carteira é que o roteiro tem como objetivo seguir um calendário de visitas, que podem ser configuradas em vários períodos de repetição. Já na carteira, os PDV's ficam atribuídos ao colaborador, que pode acessar e realizar suas visitas através da função "Buscar" no App.
+
+#### 3.1 Configuração de Roteiro
+
+![Screenshot](assets/primeiros-passos/roteiro-1.png)
+
+Em **Gerenciamento > Roteiro** ficam dispostos os colaboradores cadastrados. Clicando no colaborador que 
+terá um roteiro cadastrado leva à pagina com o calendário do mês:
+
+![Screenshot](assets/primeiros-passos/roteiro-2.png)
+<br>
+<br>
+Em **adicionar visita ao roteiro**, a visita pode ser cadastrada:
+ 
+
+![Screenshot](assets/primeiros-passos/roteiro-3.png)
+
+Selecione um PDV e configure o período.
+
+##### 3.1.1 Períodos de repetição da visita
+
+* `Visita Única` - Será uma visita ao PDV que só será feita em um dia.
+* `Diária` - Esta visita se repetirá todos os dias da semana durante um período selecionado. Podem ser adicionados sábados e domingos.
+* `Semanal` - É um roteiro que se repete baseado nos dias da semana dentro de um período.
+* `A cada 2 semanas` - A cada duas semanas, esse roteiro se repete. Por exemplo: Ao selecionar uma segunda-feira num mês, em 15 dias (Próxima segunda-feira em duas semanas) a visita será disponibilizada ao colaborador.
+* `A cada 3 semanas` - A cada três semanas, esse roteiro se repete. Por exemplo: Ao selecionar uma segunda-feira num mês, em 22 dias (Próxima segunda-feira em três semanas) a visita será disponibilizada ao
+colaborador.  
+* `Mensal` - Todo mês, a visita vai se repetir no dia especificado.
+* `Bimestral` - A cada dois meses, a visita vai se repetir no dia especificado.
+* `Trimestral` - A cada três meses, a visita vai se repetir no dia especificado.
+* `Semestral` - A cada seis meses, a visita vai se repetir no dia especificado.      
+* `Anual` - A visita será realizada por ano.
+
+##### 3.1.2 Exemplo de um Roteiro
+
+O colaborador fará uma visitação semanal todas as segundas, quartas, sextas e sábados em um PDV.
+Para isso, vamos utilizar o tipo de visita semanal. Marcar os dias da semana e selecionar um período.
+
+**SUBSTITUIR COM UM GIF**<br>
+**SUBSTITUIR COM UM GIF**<br>
+**SUBSTITUIR COM UM GIF**
+
+![Screenshot](assets/primeiros-passos/roteiro-4.png)
+
+#### 3.2 Registro de Carteira
+
+A configuração de uma carteira é mais simples que a de roteiro. Em **Gerenciamento > Carteira**, são adicionados os PDV's cadastrados no painel à carteira do promotor.
+
+**GIF CARTEIRA**<br>
+**GIF CARTEIRA**<br>
+**GIF CARTEIRA**<br>
+
+#### 4. Pesquisa
+
+A criação de uma pesquisa e perguntas é a parte final de uma configuração básica do painel.
+
+![Screenshot](assets/primeiros-passos/pesquisa-1.png)
+
+Em **Gerenciamento > Pesquisa**, todas as configurações de pesquisa estão disponíveis. Clique em **Criar Nova Pesquisa**  para adicionar uma nova pesquisa.
+
+Insira um nome e clique em cadastrar. O código de pesquisa não é obrigatório.
+
+![Screenshot](assets/primeiros-passos/pesquisa-2.png)
+
+Para configuração de Grupos, siga para a página ** LINK PÁGINA GRUPOS ** 
+
+![Screenshot](assets/primeiros-passos/pesquisa-3.png)
+
+Com a pesquisa cadastrada, é necessário cadastrar as perguntas. Clique na pesquisa criada para entrar na configuração das perguntas. 
+
+![Screenshot](assets/primeiros-passos/pesquisa-4.png)
+
+Aqui, estão dispostas todas as perguntas para essa pesquisa. 
+
+##### 4.1 Tipos de pergunta
+
+* `Multipla Escolha` - Será apresentado ao colaborador várias opções de resposta, podendo selecionar uma delas para responder à pergunta. As opções são dadas no campo **Opções** separado por **" ;; "** (Dois ponto e vírgula).
+* `Discursiva` - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.
+* `Ordem` - É a ordem em que a pergunta é disposta na lista.
+* `SKU` - Os produtos (SKU) cadastrados no painel podem ser atribuidos à essa pergunta.
+* `Obrigatorio` - É a obrigatoriedade dessa pergunta, o colaborador precisa responder para fazer check-out
+
+
+
+
+
+
+
+
+
+
+
+
