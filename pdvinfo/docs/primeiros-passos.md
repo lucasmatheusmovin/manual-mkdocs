@@ -76,21 +76,16 @@ colaborador.
 O colaborador fará uma visitação semanal todas as segundas, quartas, sextas e sábados em um PDV.
 Para isso, vamos utilizar o tipo de visita semanal. Marcar os dias da semana e selecionar um período.
 
-**SUBSTITUIR COM UM GIF**<br>
-**SUBSTITUIR COM UM GIF**<br>
-**SUBSTITUIR COM UM GIF**
 
-![Screenshot](assets/primeiros-passos/roteiro-4.png)
+![Screenshot](assets/primeiros-passos/roteiro-semanal.gif)
 
 #### 3.2 Registro de Carteira
 
 A configuração de uma carteira é mais simples que a de roteiro. Em **Gerenciamento > Carteira**, são adicionados os PDV's cadastrados no painel à carteira do promotor.
 
-**GIF CARTEIRA**<br>
-**GIF CARTEIRA**<br>
-**GIF CARTEIRA**<br>
+![Screenshot](assets/primeiros-passos/cadastro-carteira.gif)
 
-#### 4. Pesquisa
+### 4. Pesquisa
 
 A criação de uma pesquisa e perguntas é a parte final de uma configuração básica do painel.
 
