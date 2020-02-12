@@ -111,9 +111,24 @@ Aqui, estão dispostas todas as perguntas para essa pesquisa.
 
 * `Multipla Escolha` - Será apresentado ao colaborador várias opções de resposta, podendo selecionar uma delas para responder à pergunta. As opções são dadas no campo **Opções** separado por **" ;; "** (Dois ponto e vírgula).
 * `Discursiva` - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.
-* `Ordem` - É a ordem em que a pergunta é disposta na lista.
-* `SKU` - Os produtos (SKU) cadastrados no painel podem ser atribuidos à essa pergunta.
-* `Obrigatorio` - É a obrigatoriedade dessa pergunta, o colaborador precisa responder para fazer check-out
+
+* `Upload de Imagem` - Será aberta a camera do dispostivo, possibilitando a captura de uma imagem. Só imagens tiradas naquele instante seram aceitas, ou seja, não é possível enviar fotos da galeria.
+
+* `Lista Dinâmica` - Uma versão da multipla escolha que suporta muito mais itens.
+
+##### Tipos de Respostas
+
+* `Texto` - O teclado do dispositivo será aberto possibilitando a entrada de dados do tipo texto.
+
+* `Inteiro Positivo` - Um teclado numérico será aberto para inserir números inteiros. Quantidade de estoque por exemplo, é verificada com esse tipo de resposta.
+
+* `Decimal Positivo` - Entrada de números decimais, utilizada por exemplo para preço de um determinado produto.
+
+##### Ordem
+
+A ordem é 
+
+
 
 
 
