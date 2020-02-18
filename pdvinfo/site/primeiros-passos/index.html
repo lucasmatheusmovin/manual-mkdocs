@@ -69,6 +69,8 @@
     <link rel="stylesheet" href="../assets/fonts/material-icons.css">
     
     
+      <link rel="stylesheet" href="../css/extra.css">
+    
     
       
     
@@ -212,6 +214,19 @@
       
         <a href="../relatorios/geral/" class="md-tabs__link">
           Relatórios
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../duvidas/" class="md-tabs__link">
+          Dúvidas Frequentes
         </a>
       
     </li>
@@ -381,8 +396,36 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#tipos-de-respostas" class="md-nav__link">
+    Tipos de Respostas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ordem" class="md-nav__link">
+    Ordem
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-utilizando-o-aplicativo" class="md-nav__link">
+    5. Utilizando o Aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#consideracoes-finais" class="md-nav__link">
+    Considerações Finais
+  </a>
   
 </li>
       
@@ -661,6 +704,42 @@
   </li>
 
     
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Dúvidas Frequentes
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Dúvidas Frequentes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../duvidas/" title="Inicio" class="md-nav__link">
+      Inicio
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -777,8 +856,36 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#tipos-de-respostas" class="md-nav__link">
+    Tipos de Respostas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ordem" class="md-nav__link">
+    Ordem
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-utilizando-o-aplicativo" class="md-nav__link">
+    5. Utilizando o Aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#consideracoes-finais" class="md-nav__link">
+    Considerações Finais
+  </a>
   
 </li>
       
@@ -876,11 +983,47 @@ Para isso, vamos utilizar o tipo de visita semanal. Marcar os dias da semana e s
 <h5 id="41-tipos-de-pergunta">4.1 Tipos de pergunta</h5>
 <ul>
 <li><code>Multipla Escolha</code> - Será apresentado ao colaborador várias opções de resposta, podendo selecionar uma delas para responder à pergunta. As opções são dadas no campo <strong>Opções</strong> separado por <strong>" ;; "</strong> (Dois ponto e vírgula).</li>
-<li><code>Discursiva</code> - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.</li>
-<li><code>Ordem</code> - É a ordem em que a pergunta é disposta na lista.</li>
-<li><code>SKU</code> - Os produtos (SKU) cadastrados no painel podem ser atribuidos à essa pergunta.</li>
-<li><code>Obrigatorio</code> - É a obrigatoriedade dessa pergunta, o colaborador precisa responder para fazer check-out</li>
+<li>
+<p><code>Discursiva</code> - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.</p>
+</li>
+<li>
+<p><code>Upload de Imagem</code> - Será aberta a camera do dispostivo, possibilitando a captura de uma imagem. Só imagens tiradas naquele instante seram aceitas, ou seja, não é possível enviar fotos da galeria.</p>
+</li>
+<li>
+<p><code>Lista Dinâmica</code> - Uma versão da multipla escolha que suporta muito mais itens.</p>
+</li>
 </ul>
+<h5 id="tipos-de-respostas">Tipos de Respostas</h5>
+<ul>
+<li>
+<p><code>Texto</code> - O teclado do dispositivo será aberto possibilitando a entrada de dados do tipo texto.</p>
+</li>
+<li>
+<p><code>Inteiro Positivo</code> - Um teclado numérico será aberto para inserir números inteiros. Quantidade de estoque por exemplo, é verificada com esse tipo de resposta.</p>
+</li>
+<li>
+<p><code>Decimal Positivo</code> - Entrada de números decimais, utilizada por exemplo para preço de um determinado produto.</p>
+</li>
+</ul>
+<h5 id="ordem">Ordem</h5>
+<p>A ordem é o que dita quais perguntas aparecem primeiro no aplicativo.
+É importante pois dá o sentido do questionário.</p>
+<h3 id="5-utilizando-o-aplicativo">5. Utilizando o Aplicativo</h3>
+<p>Após a configuração básica do painel, o aplicativo já pode ser utilizado. Para isso,
+acesse a Google Play Store clicando <a href="https://play.google.com/store/apps/details?id=br.com.movindigital.apps.pdv_info&amp;hl=pt_BR">aqui</a> ou pesquisando no aplicativo da loja
+por "PDV Info".</p>
+<p><img alt="Screenshot" src="../assets/primeiros-passos/pdv-info-playstore.png#center" /></p>
+<p>Ao abrir o aplicativo, será aberta a tela de login. Esse login é o criado dentro do painel, em "Colaboradores".</p>
+<p><img alt="Screenshot" src="../assets/primeiros-passos/login-app.png#center" /></p>
+<p>Após entrar na conta, será apresentada a tela inicial, com o nome da ação no topo.</p>
+<p><img alt="Screenshot" src="../assets/primeiros-passos/tela-inicial.png#center" /></p>
+<p>Agora, com tudo configurado e o roteiro/carteira prontos, só falta testar sua pesquisa:</p>
+<p><img alt="Screenshot" src="../assets/primeiros-passos/resp-pesquisa.gif#center" /></p>
+<h3 id="consideracoes-finais">Considerações Finais</h3>
+<p>Parabéns! Você chegou ao final do guia de primeiros passos no PDV Info. Agora que está mais ambientado, pode 
+partir para as funcionalidades mais detalhadas, que te oferecem um controle completo da sua equipe.</p>
+<p>Siga para a página de dúvidas frequentes caso tenha encontrado algum problema. Lá temos as soluções 
+para os problemas mais comuns e como corrigi-los.</p>
                 
                   
                 

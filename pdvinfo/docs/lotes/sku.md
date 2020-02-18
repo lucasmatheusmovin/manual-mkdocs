@@ -20,4 +20,8 @@ No Excel, clique em **Arquivo > Salvar Como**. Nomeie o seu arquivo e como forma
 
 ##### 1.2 Importar no Painel
 
+Em ** Gerenciamento > SKU ** Selecione a opção importar em lotes e envie sua planilha CSV.
+
+![Screenshot](../assets/importar/upload-csv.gif#center)
+
 

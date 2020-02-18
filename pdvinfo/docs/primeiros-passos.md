@@ -148,4 +148,15 @@ Após entrar na conta, será apresentada a tela inicial, com o nome da ação no
 
 ![Screenshot](assets/primeiros-passos/tela-inicial.png#center)
 
+Agora, com tudo configurado e o roteiro/carteira prontos, só falta testar sua pesquisa:
+
+![Screenshot](assets/primeiros-passos/resp-pesquisa.gif#center)
+
+### Considerações Finais
+
+Parabéns! Você chegou ao final do guia de primeiros passos no PDV Info. Agora que está mais ambientado, pode 
+partir para as funcionalidades mais detalhadas, que te oferecem um controle completo da sua equipe.
+
+Siga para a página de dúvidas frequentes caso tenha encontrado algum problema. Lá temos as soluções 
+para os problemas mais comuns e como corrigi-los.
 
