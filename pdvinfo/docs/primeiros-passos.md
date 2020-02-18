@@ -112,7 +112,7 @@ Aqui, estão dispostas todas as perguntas para essa pesquisa.
 * `Multipla Escolha` - Será apresentado ao colaborador várias opções de resposta, podendo selecionar uma delas para responder à pergunta. As opções são dadas no campo **Opções** separado por **" ;; "** (Dois ponto e vírgula).
 * `Discursiva` - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.
 
-* `Upload de Imagem` - Será aberta a camera do dispostivo, possibilitando a captura de uma imagem. Só imagens tiradas naquele instante seram aceitas, ou seja, não é possível enviar fotos da galeria.
+* `Upload de Imagem` - Será aberta a camera do dispostivo, possibilitando a captura de uma imagem. Só imagens tiradas naquele instante seram aceitas, ou seja, não é possível enviar fotos da galeria.
 
 * `Lista Dinâmica` - Uma versão da multipla escolha que suporta muito mais itens.
 
@@ -126,18 +126,26 @@ Aqui, estão dispostas todas as perguntas para essa pesquisa.
 
 ##### Ordem
 
-A ordem é 
+A ordem é o que dita quais perguntas aparecem primeiro no aplicativo.
+É importante pois dá o sentido do questionário.
 
 
+### 5. Utilizando o Aplicativo
+
+Após a configuração básica do painel, o aplicativo já pode ser utilizado. Para isso,
+acesse a Google Play Store clicando [aqui](https://play.google.com/store/apps/details?id=br.com.movindigital.apps.pdv_info&hl=pt_BR) ou pesquisando no aplicativo da loja
+por "PDV Info".
+
+![Screenshot](assets/primeiros-passos/pdv-info-playstore.png#center)
+
+Ao abrir o aplicativo, será aberta a tela de login. Esse login é o criado dentro do painel, em "Colaboradores".
 
 
+![Screenshot](assets/primeiros-passos/login-app.png#center)
 
 
+Após entrar na conta, será apresentada a tela inicial, com o nome da ação no topo.
 
-
-
-
-
-
+![Screenshot](assets/primeiros-passos/tela-inicial.png#center)
 
 

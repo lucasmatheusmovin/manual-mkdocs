@@ -44,3 +44,6 @@ theme:
   palette:
     primary: 'orange'
     accent: 'yellow'
+
+extra_css:
+    - css/extra.css    
