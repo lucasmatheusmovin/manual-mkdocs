@@ -15,4 +15,5 @@ img {
 
   img[src*='300']{
     box-shadow: none;
+    
 }  
