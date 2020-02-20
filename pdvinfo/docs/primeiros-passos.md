@@ -97,7 +97,7 @@ Insira um nome e clique em cadastrar. O código de pesquisa não é obrigatório
 
 ![Screenshot](assets/primeiros-passos/pesquisa-2.png)
 
-Para configuração de Grupos, siga para a página ** LINK PÁGINA GRUPOS ** 
+Para configuração de Grupos, siga para a página de [Grupos](gerenciamento/grupos.md)
 
 ![Screenshot](assets/primeiros-passos/pesquisa-3.png)
 
@@ -152,7 +152,7 @@ Agora, com tudo configurado e o roteiro/carteira prontos, só falta testar sua p
 
 ![Screenshot](assets/primeiros-passos/resp-pesquisa.gif#center)
 
-### Considerações Finais
+### 6. Considerações Finais
 
 Parabéns! Você chegou ao final do guia de primeiros passos no PDV Info. Agora que está mais ambientado, pode 
 partir para as funcionalidades mais detalhadas, que te oferecem um controle completo da sua equipe.

@@ -10,7 +10,6 @@ nav:
   - Tempo Real: temporeal.md
   - Gerenciamento:  
     - Roteiro: gerenciamento/roteiro.md
-    - Pesquisa: gerenciamento/pesquisa.md
     - SKU: gerenciamento/sku.md
     - Carteira: gerenciamento/carteira.md
     - Grupos: gerenciamento/grupos.md
@@ -39,8 +38,8 @@ theme:
   custom_dir: material-custom/material
   language: pt
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Abel  
+    code: Abel Mono
   feature:
     tabs: true
   logo: 'assets/images/logo-pdvinfo-300.png'
