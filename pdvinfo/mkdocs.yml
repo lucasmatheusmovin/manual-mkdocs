@@ -13,6 +13,7 @@ nav:
     - SKU: gerenciamento/sku.md
     - Carteira: gerenciamento/carteira.md
     - Grupos: gerenciamento/grupos.md
+    - Cadastro de PDV: gerenciamento/pdv.md
   - Importação em Lotes:
     - Geral: lotes/geral.md
     - Roteiro: lotes/roteiro.md
