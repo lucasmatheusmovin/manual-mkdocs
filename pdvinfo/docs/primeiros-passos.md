@@ -19,6 +19,8 @@ e preencha os campos de cadastro.
 * `Username` - Username é o nome de usuário que dá acesso ao App do colaborador. <span style="color:red">*</span>
 * `Password` - É a senha de acesso ao App do colaborador. <span style="color:red">*</span>
 
+***Obs.:** os campos com* <span style="color:red">*</span> *são campos de preenchimento obrigatório.*
+
 <br>
 
 #### 1.1 Controle de Expediente
@@ -34,7 +36,13 @@ Para configurar o tipo de rastreamento do posicionamento por GPS do promotor.
 
 ![Screenshot](assets/primeiros-passos/cadastro-pdv.gif)
 
-O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV **. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude.
+O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV**. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude. Todos os campos do cadastro de PDVs são campos de facil entendimento por isso nesta parte falaremos sobre os campos que podem gerar mais dúvidas e que podem auxiliar na gestão do painel, mas caso deseje uma explicação mais detalhada de todos os campos você poderá encontrar em [PDVs](gerenciamento/pdv.md#2-campos-para-o-cadastro).
+
+* `Nome Fantasia` - Nome do PDV que será exibido para o promotor no app e que terá destaque no Tempo Real.
+* `E-mail` - E-mail do PDV, caso deseje que as informações coletadas seja enviado para o PDV onde elas foram coletadas, pode-se configurar no painel que as informações serão enviadas para o e-mail neste campo.
+* `Raio limite de check-in` - É a distância máxima para o colaborador realizar check-in no PDV, caso o colaborador esteja a uma distância maior que a do raio, o app irá bloquear o check-in.
+* `Código do PDV` - Caso possua um sistema próprio para realizar o relacionamento dos dados, o código do pdv é um campo especial feito para que possa realizar esta tarefa, pois nele poderá colocar o código do PDV no seu sistema e então cruzar as informações utilizando este código.
+* `Observações` - Observações sobre o PDV.
 
 ### 3. Criação de um Roteiro ou Carteira
 
@@ -62,9 +70,9 @@ Selecione um PDV e configure o período.
 * `Visita Única` - Será uma visita ao PDV que só será feita em um dia.
 * `Diária` - Esta visita se repetirá todos os dias da semana durante um período selecionado. Podem ser adicionados sábados e domingos.
 * `Semanal` - É um roteiro que se repete baseado nos dias da semana dentro de um período.
+* `A cada 10 dias` - Repete-se a loja a cada 10 dias.
 * `A cada 2 semanas` - A cada duas semanas, esse roteiro se repete. Por exemplo: Ao selecionar uma segunda-feira num mês, em 15 dias (Próxima segunda-feira em duas semanas) a visita será disponibilizada ao colaborador.
-* `A cada 3 semanas` - A cada três semanas, esse roteiro se repete. Por exemplo: Ao selecionar uma segunda-feira num mês, em 22 dias (Próxima segunda-feira em três semanas) a visita será disponibilizada ao
-colaborador.  
+* `A cada 3 semanas` - A cada três semanas, esse roteiro se repete. Por exemplo: Ao selecionar uma segunda-feira num mês, em 22 dias (Próxima segunda-feira em três semanas) a visita será disponibilizada ao colaborador.  
 * `Mensal` - Todo mês, a visita vai se repetir no dia especificado.
 * `Bimestral` - A cada dois meses, a visita vai se repetir no dia especificado.
 * `Trimestral` - A cada três meses, a visita vai se repetir no dia especificado.
@@ -101,7 +109,7 @@ Para configuração de Grupos, siga para a página de [Grupos](gerenciamento/gru
 
 ![Screenshot](assets/primeiros-passos/pesquisa-3.png)
 
-Com a pesquisa cadastrada, é necessário cadastrar as perguntas. Clique na pesquisa criada para entrar na configuração das perguntas. 
+Com a pesquisa cadastrada, é necessário cadastrar as perguntas, para cadastrar as perguntas de uma pesquisa, basta clicar no **nome da pesquisa**, ou clicar no **ícone de perguntas**, após isso você será redirecionado, para esta página.
 
 ![Screenshot](assets/primeiros-passos/pesquisa-4.png)
 
@@ -111,10 +119,13 @@ Aqui, estão dispostas todas as perguntas para essa pesquisa.
 
 * `Multipla Escolha` - Será apresentado ao colaborador várias opções de resposta, podendo selecionar uma delas para responder à pergunta. As opções são dadas no campo **Opções** separado por **" ;; "** (Dois ponto e vírgula).
 * `Discursiva` - O colaborador insere os dados por meio do teclado. Estes dados podem ser filtrados pelo tipo de resposta.
-
 * `Upload de Imagem` - Será aberta a camera do dispostivo, possibilitando a captura de uma imagem. Só imagens tiradas naquele instante seram aceitas, ou seja, não é possível enviar fotos da galeria.
-
 * `Lista Dinâmica` - Uma versão da multipla escolha que suporta muito mais itens.
+* `Assinatura` - Um campo onde poderá ser coletado a assinatura de uma pessoa.
+* `Geolocalização` - Uma pergunta que coleta a localização atual do colaborador quando a pergunta foi respondida.
+* `Múltipla Resposta` - Uma versão da múltipla escolha, onde poderá ser selecionado mais de um item de uma vez.
+* `Qr code / Código de barras` - Uma pergunta com um leitor de código de barras e de Qr code.
+
 
 ##### Tipos de Respostas
 
