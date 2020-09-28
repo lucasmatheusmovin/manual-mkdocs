@@ -35,7 +35,9 @@ Em roteiro, você terá uma visão dos roteiros naquele dia dos promotores, com 
 
 #### 5. Geolocalização dos Colaboradores
 
-Se a opção de [rastreamento Full-time](primeiros-passos.md#12-tipo-de-monitoramento-do-celular) do colaborador estiver ligada, as informações do possionamento em tempo real dele apareceram [geolocalização do colaborador](primeiros-passos.md#12-tipo-de-monitoramento-do-celular) onde você terá duas opções, a última posição dos colaboradores, nela irá mostrar a última posição de todos os colaboradores no dia selecionado.
+Se a opção de [rastreamento Full-time](primeiros-passos.md#12-tipo-de-monitoramento-do-celular) do colaborador estiver ligada, as informações do possionamento em tempo real dele apareceram [geolocalização do colaborador](primeiros-passos.md#12-tipo-de-monitoramento-do-celular) onde você terá duas opções, a última posição dos colaboradores, nela irá mostrar a última posição de todos os colaboradores no dia selecionado.<br>
 ![Screenshot](assets/tempo-real/geoloc.gif#center)
 <br>
 Na opção [monitoramento Full-time](primeiros-passos.md#12-tipo-de-monitoramento-do-celular), você poderá visualizar o percurso realizado pelo colaborador no dia selecionado, nesta opção vai aparecer somente o percurso do colaborador selecionado, por padrão o primeiro que vai aparecer é o primeiro colaborador em ordem alfabética.
+
+![Screenshot](assets/tempo-real/fulltime.png)
