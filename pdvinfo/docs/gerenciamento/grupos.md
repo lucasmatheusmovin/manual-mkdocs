@@ -10,9 +10,9 @@ Os grupos por exemplo, podem dividir redes de lojas. As diferentes redes de loja
 
 ![Screenshot](../assets/gerenciamento/grupos/grupo-criar.gif#center)
 
-Para criar um Grupo de PDV basta clicar em ** Adicionar Novo ** e cadastrar o grupo.
+Para criar um Grupo de PDV basta clicar em **Adicionar Novo** e cadastrar o grupo.
 
-Com o Grupo cadastrado, você pode gerenciar quais PDV's farão parte desse grupo agora. Basta clicar ícone ** Listar **: 
+Com o Grupo cadastrado, você pode gerenciar quais PDV's farão parte desse grupo agora. Basta clicar ícone **Listar**: 
 
 ![Screenshot](../assets/gerenciamento/grupos/grupo-gerenciar.png)
 
@@ -25,9 +25,13 @@ A configuração para um grupo de colaboradores é a mesma que para o grupo de P
 (Um revendedor e um promotor por exemplo) as pesquisas deles podem ser diferentes.
 Com o grupo de colaboradores, esse controle pode ser feito. A pesquisa que o revendedor vai receber em seu smartphone vai conter perguntas diferentes que a do promotor.
 
-### 2. Utilização do Grupo de PDV e Grupo de Colaborador
+### 2. SubGrupos
 
-Com um grupo cadastrado no painel e configurado, agora as pesquisas podem ser configuradas para eles. Em ** Gerenciamento > Pesquisa ** clique em Configurar para editar uma pesquisa. Agora, as opções de grupos estão disponíveis.
+Os subGrupos são uma forma de melhorar ainda mais a organização dos PDVs e dos colaboradores, podendo dividir os PDVs pela sua rede, (como pode ser visualizado no print acima). **O preenchimento dos é obrigatório.**
+
+### 3. Utilização do Grupo de PDV e Grupo de Colaborador
+
+Com um grupo cadastrado no painel e configurado, agora as pesquisas podem ser configuradas para eles. Em **Gerenciamento > Pesquisa** clique em Configurar para editar uma pesquisa. Agora, as opções de grupos estão disponíveis.
 
 ![Screenshot](../assets/gerenciamento/grupos/utilizar-grupo.gif#center)
 
