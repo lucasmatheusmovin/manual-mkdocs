@@ -2,11 +2,11 @@
 
 Os PDVs são uma das partes mais importantes no setup do painel, pois são os locais que serão visitados pelos colaboradores, desta forma o PDV pode ser entendido como a loja, o cliente, o local e etc. Os PDVs são importantes pois sem eles não será possível utilizar os roteiros, a carteira ou as pesquisas. 
 
-![Screenshot](../assets/gerenciamento/pdv/pdvs.png)
-
 #### 2. Configuração dos PDVs:
 
 Você pode acessar zona de gerenciamento de PDVs pelo caminha Gerenciamento > PDVs nesta página será possível observar todos os PDVs cadastrados é possível também filtrar os PDVs por Razão Social/Nome fantasia, CNPJ, Código do PDV, Endereço, Cidade, Estado, Rede e Canal.
+
+![Screenshot](../assets/gerenciamento/pdv/pdvs.png)
 
 #### 3. Cadastro de um novo PDV:
 
