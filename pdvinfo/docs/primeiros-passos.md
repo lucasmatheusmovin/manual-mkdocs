@@ -36,7 +36,7 @@ Para configurar o tipo de rastreamento do posicionamento por GPS do promotor.
 
 ![Screenshot](assets/primeiros-passos/cadastro-pdv.gif)
 
-O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV**. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude. Todos os campos do cadastro de PDVs são campos de facil entendimento por isso nesta parte falaremos sobre os campos que podem gerar mais dúvidas e que podem auxiliar na gestão do painel, mas caso deseje uma explicação mais detalhada de todos os campos você poderá encontrar em [PDVs](gerenciamento/pdv.md#2-campos-para-o-cadastro).
+O cadastro de PDV é feito através de **Gerenciamento > PDV > Adicionar Novo PDV**. Quanto mais completo o cadastro mais preciso será o ponto no mapa. Em casos de pontos sem número, recomenda-se utilizar a Latitude e a Logitude. Todos os campos do cadastro de PDVs são campos de facil entendimento por isso nesta parte falaremos sobre os campos que podem gerar mais dúvidas e que podem auxiliar na gestão do painel, mas caso deseje uma explicação mais detalhada de todos os campos você poderá encontrar em [PDVs](gerenciamento/pdv.md#3-cadastro-de-um-novo-PDV).
 
 * `Nome Fantasia` - Nome do PDV que será exibido para o promotor no app e que terá destaque no Tempo Real.
 * `E-mail` - E-mail do PDV, caso deseje que as informações coletadas seja enviado para o PDV onde elas foram coletadas, pode-se configurar no painel que as informações serão enviadas para o e-mail neste campo.
