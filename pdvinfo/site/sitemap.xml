@@ -2,97 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://pdvinfo.com.br/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/primeiros-passos/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/temporeal/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/gerenciamento/roteiro/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/gerenciamento/pesquisa/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/gerenciamento/sku/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/gerenciamento/carteira/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/gerenciamento/grupos/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://pdvinfo.com.br/gerenciamento/pdv/</loc>
+     <lastmod>2020-09-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://pdvinfo.com.br/gerenciamento/arquivos/</loc>
+     <lastmod>2020-09-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://pdvinfo.com.br/gerenciamento/pesquisas/</loc>
+     <lastmod>2020-09-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://pdvinfo.com.br/gerenciamento/Extras/</loc>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/lotes/geral/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/lotes/roteiro/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/lotes/pesquisa/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/lotes/sku/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://pdvinfo.com.br/lotes/carteira/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/relatorios/geral/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/relatorios/colaboradores/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/relatorios/pdvlocal/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/relatorios/pesquisas/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/relatorios/roteiros/</loc>
-     <lastmod>2020-02-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://pdvinfo.com.br/duvidas/</loc>
-     <lastmod>2020-02-18</lastmod>
+     <lastmod>2020-09-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

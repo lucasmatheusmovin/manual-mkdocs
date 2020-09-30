@@ -14,20 +14,23 @@ nav:
     - Carteira: gerenciamento/carteira.md
     - Grupos: gerenciamento/grupos.md
     - Cadastro de PDV: gerenciamento/pdv.md
+    - Arquivos: gerenciamento\arquivos.md
+    - Pesquisas: gerenciamento\pesquisas.md
+    - Extas: gerenciamento\Extras.md
   - Importação em Lotes:
     - Geral: lotes/geral.md
     - Roteiro: lotes/roteiro.md
     - Pesquisa: lotes/pesquisa.md
     - SKU: lotes/sku.md
     - Carteira: lotes/carteira.md
-  - Relatórios:
-    - Geral: relatorios/geral.md
-    - Relatório de Colaboradores: relatorios/colaboradores.md
-    - Relatório de PDV/Local: relatorios/pdvlocal.md
-    - Relatório de Pesquisas: relatorios/pesquisas.md
-    - Relatório de Roteiros: relatorios/roteiros.md
-  - Dúvidas Frequentes: 
-    - Inicio: duvidas.md
+  # - Relatórios:
+  #   - Geral: relatorios/geral.md
+  #   - Relatório de Colaboradores: relatorios/colaboradores.md
+  #   - Relatório de PDV/Local: relatorios/pdvlocal.md
+  #   - Relatório de Pesquisas: relatorios/pesquisas.md
+  #   - Relatório de Roteiros: relatorios/roteiros.md
+  # - Dúvidas Frequentes: 
+  #   - Inicio: duvidas.md
 
      
   
